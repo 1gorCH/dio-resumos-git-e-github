@@ -11,7 +11,8 @@ Repositório para armazenar resumos sobre o Git e GitHub. Versionamneto de Códi
 
 | Aulas | Resumos |
 |-------|---------|
-| Gravando operações de Repositório local | [Resumos]()|
+| AULA 01 | [Resumos]()|
+| AULA 02 | [Resumos]()|
 
 ```
 git init
